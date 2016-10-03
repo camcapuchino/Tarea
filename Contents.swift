@@ -1,10 +1,3 @@
-/*
- Alumno: Samuel Isaac Bernal Carranza
- Tarea: Velocimetro de un automóvil digital
- Curso: Swift: programar para iOS
- 
-*/
-
 import UIKit
 
 enum Velocidades : Int{
